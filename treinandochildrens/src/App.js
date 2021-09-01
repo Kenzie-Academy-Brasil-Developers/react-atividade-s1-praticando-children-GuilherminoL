@@ -16,7 +16,7 @@ function App() {
       score: 947,
       name: "Hulk",
       imageSrc:
-        "https://www.hojeemdia.com.br/polopoly_fs/1.836762!/image/image.jpg_gen/derivatives/landscape_490/image.jpg",
+        "https://s2.glbimg.com/I-7hQyyJstXGXioUdpWCkkLjG2k=/0x0:2048x1365/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2021/j/6/qSrYwmQw642aF1TPkBlA/51318016836-3fde5b872e-k.jpg",
       age: 35,
       position: "Centroavante",
       goals: 375,
